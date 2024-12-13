@@ -494,3 +494,10 @@ footer .end span{
     background: #000000;
     border-radius: 15px;
 }
+@media (max-width: 768px) {
+    /* Styles for tablets and smaller devices */
+  }
+  
+  @media (max-width: 480px) {
+    /* Styles for mobile phones */
+  }
